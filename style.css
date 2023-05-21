@@ -1,0 +1,98 @@
+body{
+    background-image: url(érablichat.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(32, 32, 32);
+}
+
+.valider{
+    background: linear-gradient(to right,#4bb902 ,#38ff62);
+    background-color: #4bb902;
+    color: #fff;
+    font-family: Trebuchet MS;
+    font-size: 18px;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration: none;
+    padding: 14px 36px;
+    border: 0px solid #000;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.valider:hover{
+    background: linear-gradient(to right,#47b002 ,#35f25d);
+    background-color: #47b002;
+}
+
+.valider:active{
+    transform: scale(0.95);
+}
+
+.ibox
+{
+    padding:3px; 
+    font-size:16px; 
+    border-width:2px; 
+    border-color:#cccccc; 
+    font-family:monospace; 
+    border-style:hidden; 
+    border-radius:9px;  
+}
+
+.ibox:focus { 
+    outline:none; 
+}
+
+.msg{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    color: white;
+    text-align: center;
+    background-color: rgb(46, 46, 46);
+    border-radius:9px;
+    margin: auto;
+    width: 20em;
+    padding: 10px;
+}
+
+.arrow{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#arrow{
+    width: 5em;
+    height: 5em;
+}
+
+#footer{
+    background-color: rgb(21, 21, 21);
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.backbutton{
+    color: white;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.warn{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius:9px;
+    margin: auto;
+    width: 30em;
+    padding: 10px;
+}
