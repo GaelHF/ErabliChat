@@ -5,7 +5,7 @@ Website in PHP with a MySQL database. This is a instant chat website.
 
 ## Authors
 
-- [@VAXS](https://www.github.com/vaxs02)
+- [@VAXS](https://www.github.com/GaelHF)
 
 
 ## Demo
